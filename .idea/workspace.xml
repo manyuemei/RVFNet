@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="424e341c-c99b-42c8-8ba8-3016d896bfd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/RVFNet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_10.0margin_1e-05lr_0.08regular/checkpoint_0_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_10.0margin_1e-05lr_0.08regular/checkpoint_1_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_10.0margin_1e-05lr_0.08regular/checkpoint_2_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_10.0margin_1e-05lr_0.08regular/checkpoint_3_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_10.0margin_1e-05lr_0.08regular/checkpoint_4_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.0005lr_0regular/checkpoint_11_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.0005lr_0regular/checkpoint_12_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.0005lr_0regular/checkpoint_13_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.0005lr_0regular/checkpoint_14_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.0005lr_0regular/checkpoint_15_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.001lr_0.08regular/checkpoint_0_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.001lr_0.08regular/checkpoint_1_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.001lr_0.08regular/checkpoint_2_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.001lr_0.08regular/checkpoint_3_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.001lr_0.08regular/checkpoint_4_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.001lr_0.08regular/checkpoint_5_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.001lr_0.08regular/checkpoint_6_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.001lr_0.08regular/checkpoint_7_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.001lr_0.08regular/checkpoint_8_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr/checkpoint_0_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr/checkpoint_10_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr/checkpoint_1_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr/checkpoint_2_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr/checkpoint_3_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr/checkpoint_4_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr/checkpoint_5_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr/checkpoint_6_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr/checkpoint_7_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr/checkpoint_8_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr/checkpoint_9_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr_0.1regular/old/checkpoint_0_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr_0.1regular/old/checkpoint_10_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr_0.1regular/old/checkpoint_1_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr_0.1regular/old/checkpoint_2_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr_0.1regular/old/checkpoint_3_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr_0.1regular/old/checkpoint_4_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr_0.1regular/old/checkpoint_5_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr_0.1regular/old/checkpoint_6_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr_0.1regular/old/checkpoint_7_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr_0.1regular/old/checkpoint_8_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_18.0margin_0.003lr_0.1regular/old/checkpoint_9_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkpoints/_64bits_2.0margin_1e-05lr_0regular/checkpoint_0_epoch.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/test/0A_origin/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/train/0A_origin/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/val/0A_origin/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hard_triplet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/label/test_label.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/label/train_label.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/label/val_label.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makeset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/spatial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/temporal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original_video/test/0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original_video/train/0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/original_video/val/0.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization/RVFNet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization/spatial.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualization/temporal.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SmXtCUaVhDlKyV9NgJcSYZzmiJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/daima/00new/RVFNet&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="RVFNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="424e341c-c99b-42c8-8ba8-3016d896bfd6" name="Changes" comment="" />
+      <created>1689752942952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689752942952</updated>
+      <workItem from="1689752944481" duration="10000" />
+      <workItem from="1689766824296" duration="9445000" />
+      <workItem from="1689824236107" duration="1025000" />
+      <workItem from="1689840633230" duration="45000" />
+      <workItem from="1691825160156" duration="1485000" />
+      <workItem from="1691827881662" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
